@@ -43,6 +43,11 @@ export default function Home({navigation}) {
                     <Text>Acessar</Text>
                 </TouchableOpacity>
             </View>
+            <View>
+                <Text>
+                    Criado e Desenvolvido por Kadu Lisboa e Lucas Berto
+                </Text>
+            </View>
         </SafeAreaView>
     </>
   );
